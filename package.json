@@ -22,7 +22,7 @@
     "mongodb": "^3.3.4",
     "mongoose": "^5.7.12",
     "nodemon": "^2.0.0",
-    "xlsx": "^0.15.2"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
